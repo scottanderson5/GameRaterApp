@@ -1,0 +1,10 @@
+#User Personas
+
+**Randy**
+    Randy is a native of Texas and has recently discovered a new beer that he really enjoys. Up until now, he has been mostly drinking Bud Light and other cheap domestics. But this beer has opened his eyes, so to speak, of other great beers that may be out there. Wanting to know what other beers this particular brewery offers, he does a quick google search and finds a website that dedicates itself to Texas Breweries and Beers. He finds the profile page for the brewery, and see a list or beers they currently offer. These individual beers also have profile pages where he can see what other users think about them. He sees one that looks good, and decides to buy some next time he goes to the store.
+
+**Ben**
+    Ben owns and operates a local beer shop in Denton, Texas. He has an event coming up in a few weeks and wants to make sure that he is able to get the news of the event out to as many people as he can. He already has shared the event on the shops Facebook and Instagram pages. Wanting to further the reach of the event, he logs on to the app and creates a new event on his shops profile page. The event is then shared in the news feed of the app for people to see the event coming up. 
+
+**Susan**
+    Susan owns and operates a small micro-brewery in Texas along with a group of two others. They are relatively new to the beer scene, having been open for only a year. She finds out that there is a web app where people can go and see beers and breweries native to the state of Texas. Her brewery is not featured on the site yet, so after creating a new user login, she goes to create a new brewery page. She puts in all the info along with her contact info, and sees that she needs to wait for admin approval. Nonetheless, she is excited to have a new outlet for providing beer lovers info about their young brewery.  
