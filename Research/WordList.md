@@ -1,53 +1,47 @@
 #Word List
 
-* Beer
-* Local
-* Craft
-* Texas
-* Handmade
-* Brew
-* Research
-* Find
-* Discovery
-* Hipster
-* Growing
-* Diverse
-* Plentiful
-* Delicious
-* Refreshing
-* Hops
-* Grain
-* Mugs
-* Glasses
-* Pints
-* Bubbly
-* Patience
-* Crisp
 * Fun
-* Engaging
-* Various
 * Social
-* Hardwood Tables
-* Coasters
-* 21
-* Responsibility
-* Cornhole (game)
-* Shoes (game)
-* Porter
-* Stout
-* Lager
-* Ale
-* Red
-* Cider
-* IPA
-* Farmhouse
-* Sour
-* Bottle
-* Bottle Cap
-* Organic
-* Bacteria
-* Barrels
-* Fermentation
-* Collaboration
-* Engaging
-* Laid Back
+* Helpful
+* Beta Testing
+* New
+* Group
+* Inside
+* Table
+* Review
+* Rate
+* Pictures
+* Buy
+* Return
+* Enjoyment
+* Hipster
+* First 
+* Cool
+* Hip
+* Retro
+* Game
+* Cards
+* Pieces
+* Fake Money
+* Influence
+* Top-Rated
+* Points
+* Friends
+* Meetups
+* Rankings
+* Matchup
+* Creator
+* Developers
+* Re-use
+* Purchase
+* Love
+* Hate
+* Keep
+* Disect
+* Analyze
+* Perform
+* Test
+* Pride
+* Fulfillment
+* Feedback
+* Play
