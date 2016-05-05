@@ -13,3 +13,6 @@
 
 4. User Testing
     * Home Page Layout (Dahsboard)
+
+5. Netflix
+    * Layout of Titles on the Home Page screen
