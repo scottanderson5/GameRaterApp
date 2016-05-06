@@ -16,3 +16,11 @@
 
 5. Netflix
     * Layout of Titles on the Home Page screen
+
+#Possible App Names
+
+1. Pieces
+2. Game Rate
+3. Checkmate
+
+

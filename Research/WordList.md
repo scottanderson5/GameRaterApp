@@ -1,6 +1,6 @@
-#Word List
+#Word List     
 
-* Fun
+* Fun           
 * Social
 * Helpful
 * Beta Testing
